@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-saisons-de-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Les Saisons De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-saisons-de-lamour/) |
+| **Get License** | [Secure Licensing Rights for Les Saisons De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-saisons-de-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Danse sous les néons, ton parfum me rend fou, bébé
+> Ton regard est un piège et je me laisse emporter
+> Laisse-moi te faire vivre les saisons de l'amour
+> Viens plus près, on s'évade jusqu'au lever du jour
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

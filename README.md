@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-saisons-de-lamour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Les Saisons De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-saisons-de-lamour/) |
+| **Get License** | [Music Rights & Licensing for Les Saisons De L'amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-saisons-de-lamour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cd569aaf28a972e2a20d0e635093d4702966eeb483651f9ce5941f7cbf21dd6c` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
